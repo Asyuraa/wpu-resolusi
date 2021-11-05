@@ -4,5 +4,6 @@ RENCANA KERJA WPU
 - Membuat project baru
   * Aplikasi Pinjol
   * Game Online
+- Belajar Lebih banyak bahasa pemrograman
 - Menganalisa Pasar
 - Mendapatkan Hasil
