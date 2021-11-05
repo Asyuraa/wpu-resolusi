@@ -4,6 +4,8 @@ RENCANA KERJA WPU
 - Membuat project baru
   * Aplikasi Pinjol
   * Game Online
+   > Mobile Legend
+   > AOV
 - Belajar Lebih banyak bahasa pemrograman
 - Menganalisa Pasar
-- Mendapatkan Hasil
+  > Profit
