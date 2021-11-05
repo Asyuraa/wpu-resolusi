@@ -5,6 +5,7 @@ RENCANA KERJA WPU
   * Aplikasi Pinjol
   * Game Online
    > Mobile Legend
+   > PUBG Mobile
 - Belajar Lebih banyak bahasa pemrograman
 - Menganalisa Pasar
   > Mendapatkan Profit
